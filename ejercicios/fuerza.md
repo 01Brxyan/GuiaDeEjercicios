@@ -13,3 +13,7 @@ Los ejercicios de fuerza son aquellos que ayudan a mejorar la masa muscular y la
 1. Realiza series de 8-12 repeticiones.
 2. Utiliza el peso adecuado para tu nivel.
 3. Realiza el ejercicio de forma controlada para evitar lesiones.
+
+## Consejos
+- Mantén una postura correcta durante todo el ejercicio.
+- No utilices pesos demasiado elevados al principio.
