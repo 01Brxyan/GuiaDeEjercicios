@@ -8,3 +8,8 @@ El pilates es un sistema de ejercicios enfocado en el fortalecimiento del núcle
 - Aumenta la flexibilidad y movilidad.
 - Fortalece el núcleo y reduce el dolor lumbar.
 
+## Instrucciones
+1. Realiza movimientos lentos y controlados, concentrándote en la respiración.
+2. Mantén siempre el control de tu núcleo durante los ejercicios.
+3. No realices movimientos bruscos; busca la fluidez y la conexión mente-cuerpo.
+
