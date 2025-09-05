@@ -12,3 +12,7 @@ El yoga es una práctica física, mental y espiritual que promueve la flexibilid
 1. Realiza una serie de posturas, manteniéndolas entre 15 y 60 segundos.
 2. Concédele importancia a la respiración profunda durante todo el proceso.
 3. Asegúrate de realizar estiramientos suaves para evitar lesiones.
+
+## Consejos
+- Realiza las posturas con calma y sin forzar el cuerpo.
+- Escucha a tu cuerpo y no intentes llegar más allá de tu límite.
