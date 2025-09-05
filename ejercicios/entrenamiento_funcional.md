@@ -8,3 +8,8 @@ El entrenamiento funcional trabaja movimientos funcionales del día a día, mejo
 - Aumenta la flexibilidad y movilidad.
 - Reduce el riesgo de lesiones en actividades cotidianas.
 
+## Instrucciones
+1. Realiza movimientos de empuje, tracción, y sentadillas.
+2. Mantén el core activado durante todo el ejercicio.
+3. Asegúrate de calentar correctamente antes de empezar.
+
