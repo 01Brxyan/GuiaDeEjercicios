@@ -13,3 +13,8 @@ Los ejercicios de flexibilidad mejoran la movilidad y reducen el riesgo de lesio
 2. Mantén una respiración profunda y controlada durante cada estiramiento.
 3. No rebotes al realizar los estiramientos para evitar lesiones.
 
+## Consejos
+- No fuerces el estiramiento más allá de tu límite.
+- Mantén una postura correcta durante los estiramientos.
+- Realiza los estiramientos de forma controlada y sin prisa.
+
