@@ -13,3 +13,7 @@ El boxeo es un deporte de contacto que mejora la resistencia cardiovascular, la 
 2. Realiza combinaciones de golpes de boxeo (jab, cross, uppercut).
 3. Mantén la guardia alta y el cuerpo relajado mientras golpeas.
 4. Finaliza con una serie de estiramientos para prevenir lesiones.
+
+## Consejos
+- Mantén una postura firme y controla tu respiración.
+- No golpees con demasiada fuerza al principio, especialmente si eres principiante.
