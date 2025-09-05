@@ -13,3 +13,7 @@ El entrenamiento funcional trabaja movimientos funcionales del día a día, mejo
 2. Mantén el core activado durante todo el ejercicio.
 3. Asegúrate de calentar correctamente antes de empezar.
 
+
+## Consejos
+- No utilices demasiado peso al principio.
+- Mantén una postura adecuada para evitar lesiones en la espalda.
