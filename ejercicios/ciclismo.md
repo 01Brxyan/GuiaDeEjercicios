@@ -13,3 +13,7 @@ El ciclismo es un ejercicio cardiovascular que mejora la resistencia y la salud 
 2. Mantén una postura erguida y relajada mientras pedaleas.
 3. Ajusta la resistencia o la velocidad según tu nivel de habilidad.
 4. Finaliza con un enfriamiento y estiramiento.
+
+## Consejos
+- Asegúrate de que tu bicicleta esté bien ajustada antes de empezar.
+- Mantén un ritmo constante y evita el esfuerzo excesivo.
