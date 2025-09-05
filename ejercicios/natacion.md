@@ -7,3 +7,10 @@ La natación es un ejercicio cardiovascular de bajo impacto que trabaja todos lo
 - Mejora la salud cardiovascular.
 - Trabaja todos los grupos musculares.
 - Bajo impacto, ideal para personas con problemas articulares.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Nada a un ritmo cómodo durante 20-30 minutos.
+3. Realiza pausas para descansar cuando sea necesario.
+4. Finaliza con un enfriamiento de 5 minutos y estiramientos.
+
