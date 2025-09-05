@@ -14,3 +14,6 @@ La natación es un ejercicio cardiovascular de bajo impacto que trabaja todos lo
 3. Realiza pausas para descansar cuando sea necesario.
 4. Finaliza con un enfriamiento de 5 minutos y estiramientos.
 
+## Consejos
+- Mantén una respiración controlada durante todo el ejercicio.
+- Evita movimientos bruscos para no dañar los hombros o las muñecas.
